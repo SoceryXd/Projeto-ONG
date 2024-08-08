@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #59263C, #FF8F4F);
+    background: linear-gradient(to bottom, #FF8F4F, #86BBD8 );
     color: #fff;
     text-align: center;
 }
 
 header {
-    background-color: #4E2B4C;
+    background-color: #86BBD8;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
@@ -186,7 +186,6 @@ main {
 }
 
 footer {
-    background-color: #FF8F4F;
     padding: 2rem;
     text-align: center;
     color: #fff;
